@@ -1,0 +1,113 @@
+html {
+	background-color: #ccc;
+	font: normal 100%/1.4 Georgia,serif;
+}
+
+.ir {
+	overflow: hidden;
+
+	text-indent: 100%;
+	white-space: nowrap;
+}
+
+.flex-img {
+	display: block;
+	width: 100%;
+}
+
+p {
+  margin: 0 0 1.4rem;
+}
+
+ul {
+  margin: 0 0 1.4rem;
+}
+
+Included file css/grids.css not found in _includes directory
+.btn {
+	padding: 0.7em 0.9em;
+	display: inline-block;
+	background-color: #33c;
+	background-image: linear-gradient(to bottom, #33c, #336);
+	border-radius: 8px;
+	box-shadow: 0 2px 3px rgba(0,0,0,0.5);
+	font-family: sans-serif;
+	font-weight: bold;
+	color: #fff;
+	text-decoration: none;
+}
+
+.btn:hover {
+	background-color: #33f;
+	background-image: linear-gradient(to bottom, #33f, #339);
+}
+
+.btn-large {
+	font-size: 1.25rem;
+}
+
+.btn-small {
+	font-size: 0.75rem;
+}
+
+.btn-buy {
+	background-color: #3c3;
+	background-image: linear-gradient(to bottom, #3c3, #363);
+}
+
+.btn-buy:hover {
+	background-color: #3f3;
+	background-image: linear-gradient(to bottom, #3f3, #393);
+}
+
+.list-group {
+	padding: 0;
+
+	list-style-type: none;
+}
+
+.list-group-item {
+	display: block;
+}
+
+.list-group-item-inline {
+	display: inline-block;
+}
+
+Included file css/media-objects.css not found in _includes directory
+.icon {
+	display: inline-block;
+
+	background: transparent none no-repeat center center;
+	background-size: contain;
+
+	vertical-align: middle;
+}
+
+.i-16 {
+	height: 16px;
+	width: 16px;
+}
+
+.i-32 {
+	height: 32px;
+	width: 32px;
+}
+
+.icon-link {
+	display: block;
+
+	color: #66f;
+	text-decoration: none;
+}
+
+.icon-label {
+	border-bottom: 1px solid rgba(102, 102, 255, 0.5);
+}
+
+header {
+  padding: 1em;
+
+  background-color: #e2e2e2;
+}
+
